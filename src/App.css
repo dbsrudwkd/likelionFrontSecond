@@ -17,7 +17,7 @@
 
 .finButton {
   background-color: rgb(243, 191, 234);
-  border: 2px solid rgb(239, 121, 140);
+  border: 2px solid rgb(206, 122, 225);
 }
 
 .content {
@@ -29,5 +29,9 @@
 .title {
   width: 700px;
    border: 3px solid black;
+}
+
+.detail {
+  display: inline-block;
 }
 
